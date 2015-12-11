@@ -11,7 +11,6 @@ It is possible to make £2 in the following way:
 How many different ways can £2 be made using any number of coins?
 
 '''
-values = [1,2,5,10,20,50,100,200]
 combinations = 0
 
 i = 200
